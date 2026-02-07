@@ -1,9 +1,5 @@
 # TNA
 
-Hierarchical graph Transformer for brain network analysis (e.g. psychiatric disorder classification).
-
-**License:** This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
-
 ## Requirements
 
 See `requirements.txt`. Key dependencies are pinned for reproducibility.
