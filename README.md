@@ -93,6 +93,3 @@ python scripts/train.py --base_dir /path/to/base_dir
 
 Weights are appended to `attention_weights.txt` under that directory.
 
-## Citation
-
-If you use this code, please cite our paper (add your paper reference here).
